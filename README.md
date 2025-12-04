@@ -1,4 +1,4 @@
----
+#---
 
 ### 🚂 Train Scheduling & Reservation System
 
@@ -14,12 +14,3 @@ This comprehensive **full-stack solution** is designed to manage both train time
 
 ---
 
-### 🛠 Tech Stack (for this Project)
-
-| Component | Technology | Role |
-| :--- | :--- | :--- |
-| **Backend** | Java Spring Boot | Robust, scalable server-side logic for both scheduling and booking transactions. |
-| **Database** | SQL / PostgreSQL (Specify your choice) | Secure management of scheduling data and **ticket reservation records.** |
-| **Frontend** | HTML, CSS, JavaScript | Responsive and user-friendly interface for management and the booking process. |
-
----
